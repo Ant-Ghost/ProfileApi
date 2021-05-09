@@ -25,7 +25,8 @@
 
   Models :
     
-    Django has object-relational database. Models are blueprint of your database. Object (instance of Model class) is used to create the database.
+    Django has object-relational database. Models are blueprint of your database.
+    Object (instance of Model class) is used to create the database.
     
   Views :
 
@@ -45,4 +46,8 @@
     
   Serializers :
 
-	  Similar to form. It has a python code which acts on the given model and convert to frontend friendly data. Helps in serializing data and data transfer.
+	  Similar to form. It has a python code which acts on the given model and convert to frontend friendly data.
+	  Helps in serializing data and data transfer.
+
+
+#### Inspired by : https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
