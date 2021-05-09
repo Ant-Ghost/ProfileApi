@@ -1,0 +1,9 @@
+{% extends "profile_api/base.html" %}
+{% block content %}
+    <h1>You are Logged Out.</h1>
+    <div class="border-top pt-3">
+        <small class="text-muted">
+            <a class="ml-2" href="{% url 'login' %}">Log in</a>
+        </small>
+    </div>
+{% endblock content %}

@@ -1,1 +1,4 @@
-remember use req in side VIRTUAL ENVIRONMENT
+remember : use req in side VIRTUAL ENVIRONMENT
+
+super user: Auno
+pass : qwerty
